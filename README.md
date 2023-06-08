@@ -11,6 +11,4 @@ El objetivo de este proyecto es _poner en práctica mis conocimientos en las lib
 - React Hook Form
 - Yup
 
-![]()
-
 ![image](./public/nft_market.png)
